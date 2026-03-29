@@ -61,9 +61,12 @@ This project demonstrates:
 5. When program restarts, tasks are loaded automatically  
 
 ---
-
 ## ▶️ How to Run the Project
 
 ### Step 1: Compile the code
-```bash
+
 javac *.java
+
+### Step 2: Run the program
+
+java Main

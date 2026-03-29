@@ -70,3 +70,17 @@ javac *.java
 ### Step 2: Run the program
 
 java Main
+
+## 📸 Sample Output
+
+### 🖥️ Main Menu
+![Main Menu](menu.png)
+
+### ➕ Adding Task
+![Add Task](add.png)
+
+### 📋 Viewing Tasks
+![View Tasks](view.png)
+
+### 🔄 Data Persistence
+![Restart](restart.png)
